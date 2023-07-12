@@ -1,0 +1,17 @@
+.game-label {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-font-size: 18px;
+}
+
+.game-score {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-font-size: 18px;
+}
+
+.game-over-label {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-font-size: 36px;
+}
